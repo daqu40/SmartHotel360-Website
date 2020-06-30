@@ -7,6 +7,7 @@ namespace SmartHotel360.PublicWeb.Models.Settings
 {
     public class PetsConfig
     {
+        // My first change
         public string CosmosUri { get; set; }
         public string Api { get; set; }
         public string CosmosKey { get; set; }
